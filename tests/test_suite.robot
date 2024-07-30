@@ -1,6 +1,6 @@
 *** Settings ***
 
-Resource    ../utils/resource/resource.robot
+Resource    ../_support/resource.robot
 
 Suite Setup    Start Session
 Suite Teardown    End Session

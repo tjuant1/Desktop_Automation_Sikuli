@@ -1,0 +1,11 @@
+employee_field:
+  nome_field: Juan
+  cargo_field: Caixa
+  cpf_field: '11111111112'
+  salario_field: '2000'
+product_field:
+  nome_field: Suco de Morango
+  quantidade_field: '4'
+  valor_field: '9'
+order_field:
+  order_quantity: '1'
