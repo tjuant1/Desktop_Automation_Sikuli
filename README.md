@@ -16,9 +16,6 @@
 - Python
 - Material Icon Them
 
-# To execute test_suite.robot
-- robot -d ./results ./tests/test_suite.robot
-
 # Author
 
 <table>
