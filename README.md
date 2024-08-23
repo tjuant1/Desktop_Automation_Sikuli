@@ -1,4 +1,4 @@
-# My First Automation Using Sikuli Library
+# My Automation Using Sikuli Library
 - My first desktop automation using Robot Framework Sikuli and BugBakery
 
 # Prerequisites to use this project
